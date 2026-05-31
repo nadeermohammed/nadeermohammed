@@ -1,235 +1,235 @@
+````md
 <div align="center">
 
-# Hi 👋 I'm Mohammed Nadeer
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=MOHAMMED%20NADEER&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Java%20Full%20Stack%20Developer%20|%20Cloud%20%26%20DevOps%20Enthusiast%20|%20AI%20Developer&descAlignY=60"/>
 
-### ☁️ Cloud & DevOps Engineer | 🤖 AI Developer | ☕ Java Full Stack Developer | 🔄 RPA Automation Enthusiast
+# 👋 Hi, I'm Mohammed Nadeer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;AI+%26+Deep+Learning+Developer;Java+Full+Stack+Developer;RPA+Automation+Developer;Cybersecurity+Enthusiast;Building+Scalable+Solutions" />
+### ☕ Java Full Stack Developer | ☁️ Cloud & DevOps Enthusiast | 🤖 AI Developer | 🔄 RPA Automation Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Cloud+%26+DevOps+Learner;AI+%26+Machine+Learning+Developer;RPA+Automation+Enthusiast;Building+Scalable+Applications"/>
+
+<img src="https://komarev.com/ghpvc/?username=nadeermohammed&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ## 🚀 About Me
 
 🎓 Final Year Computer Science Engineering Student
 
-☁️ Cloud & DevOps Trainee at Dhee Coding Lab
+☕ Passionate Java Full Stack Developer
 
-☕ Java Full Stack Developer
+☁️ Cloud & DevOps Trainee at Dhee Coding Lab
 
 🔄 RPA Automation Intern at Varshita Infotech
 
-🤖 AI & Deep Learning Enthusiast
+🤖 AI & Machine Learning Enthusiast
 
-🔐 Cybersecurity & Identity Fraud Detection Researcher
+🔐 Interested in Cybersecurity & Fraud Detection
 
-🐳 Learning Docker, Kubernetes & CI/CD Pipelines
+🐳 Learning Docker, Kubernetes, AWS & CI/CD
 
-🚀 Exploring AWS Cloud Services
+💡 Building scalable and efficient web applications
 
-🌱 Constantly learning and building real-world solutions
-
-📫 Reach Me:
-
-**nadeerbinshameem@gmail.com**
+📫 Email: **nadeerbinshameem@gmail.com**
 
 ---
 
-# 🌐 Connect With Me
+## 💫 About Me
 
-<p align="left">
-<a href="https://linkedin.com/in/mohammed-nadeer-s" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+🔭 Currently working on Full Stack Web Applications using Java, Spring Boot, SQL, and Modern Web Technologies
+
+🚀 Building scalable web applications with secure backend architectures
+
+👯 Looking to collaborate on Full Stack Development, Open Source Projects, and Cloud-Native Applications
+
+🌱 Currently learning Advanced Spring Boot, Microservices, Docker, Kubernetes, AWS, and CI/CD
+
+💬 Ask me about Java, Spring Boot, SQL, REST APIs, Frontend Development, DevOps, and Cloud Technologies
+
+⚡ Fun Fact: I enjoy transforming real-world business problems into efficient web applications and automation solutions.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
 
 <a href="https://github.com/nadeermohammed">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/mohammed-nadeer-s">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:nadeerbinshameem@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 💻 Programming Languages
+# 💻 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,mysql" />
+## 🎨 Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react"/>
 </p>
 
 ---
 
-# ☁️ Cloud & DevOps
+## ⚙️ Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,bash" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs"/>
 </p>
 
 ---
 
-# 🌐 Web Development
+## 🗄️ Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,spring" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
 ---
 
-# 🤖 Artificial Intelligence
+## ☁️ Cloud & DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,bash"/>
 </p>
 
 ---
 
-# 🛠 Tools & Platforms
+## 🤖 AI & Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,postman" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+</p>
+
+---
+
+## 🛠 Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,postman"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔐 Face Morphing Detection System
+## 👨‍💼 Employee Performance Tracker (CRM Domain)
 
-### AI-Based Identity Fraud Detection
-
-✔ Vision Transformer (ViT)
-
-✔ Graph Convolution Network (GCN)
-
-✔ Explainable AI Heatmaps
-
-✔ Confidence Score Prediction
-
-✔ Real-Time Web Application
-
-✔ Fraud Detection & Verification
-
----
-
-## 💳 UPI Fraud Detection System
-
-### Financial Fraud Detection
-
-✔ LightGBM
-
-✔ GAN Oversampling
-
-✔ Data Balancing
-
-✔ Fraud Classification
-
-✔ Machine Learning Pipeline
-
----
-
-## 🩺 Cancer Cell Detection System
-
-### Medical Image Analysis
-
-✔ Deep Learning CNN
-
-✔ Medical Imaging
-
-✔ Real-Time Prediction
-
-✔ Confidence Score Analysis
-
-✔ Scalable Deployment
+- Employee KPI Monitoring
+- Dashboard Analytics
+- Attendance Tracking
+- Report Generation
+- Java Full Stack Architecture
 
 ---
 
 ## 🎓 Smart Course Enrollment System
 
-### Academic Management Solution
-
-✔ Student Registration
-
-✔ Course Eligibility Verification
-
-✔ Enrollment Management
-
-✔ Database Integration
+- Student Registration
+- Eligibility Verification
+- Enrollment Management
+- Schedule Tracking
+- Database Integration
 
 ---
 
-## 👨‍💼 Employee Performance Tracker
+## 🔐 Face Morphing Detection System
 
-### CRM Domain Project
+- Vision Transformer (ViT)
+- Graph Convolution Network (GCN)
+- Explainable AI Heatmaps
+- Confidence Score Prediction
+- Identity Fraud Detection
 
-✔ Employee Performance Analysis
+---
 
-✔ KPI Monitoring
+## 💳 UPI Fraud Detection System
 
-✔ Dashboard Reporting
+- LightGBM
+- GAN Oversampling
+- Fraud Classification
+- Risk Analysis
+- Machine Learning Pipeline
 
-✔ Java Full Stack Development
+---
+
+## 🩺 Cancer Cell Detection System
+
+- Deep Learning CNN
+- Medical Image Classification
+- Real-Time Prediction
+- Confidence Analysis
 
 ---
 
 ## 🔄 RPA Automation Solutions
 
-### Process Automation
-
-✔ Workflow Automation
-
-✔ Task Automation
-
-✔ Productivity Enhancement
-
-✔ Business Process Optimization
+- Workflow Automation
+- Process Optimization
+- Task Automation
+- Productivity Enhancement
 
 ---
 
 # 📈 Learning Roadmap
 
 ```text
-Programming
-     ↓
-Linux
-     ↓
-Git & GitHub
-     ↓
+Java
+ ↓
+Spring Boot
+ ↓
+SQL
+ ↓
+REST APIs
+ ↓
 Docker
-     ↓
+ ↓
 Kubernetes
-     ↓
+ ↓
+AWS
+ ↓
 CI/CD
-     ↓
-AWS Cloud
-     ↓
-DevOps Engineer
-```
+ ↓
+Full Stack + Cloud Engineer
+````
 
 ---
 
 # 🏆 Certifications
 
-🎖 CS50 – Introduction to Computer Science
+🏅 CS50 – Introduction to Computer Science
 
-🎖 AWS Certified Developer Associate
+🏅 AWS Certified Developer Associate
 
-🎖 Cisco Networking Basics
+🏅 Cisco Networking Basics
 
-🎖 Java Full Stack with Cloud & DevOps
+🏅 Java Full Stack with Cloud & DevOps
 
-🎖 RPA Automation Internship
+🏅 RPA Automation Internship
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=nadeermohammed&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadeermohammed&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeermohammed&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeermohammed&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -245,11 +245,21 @@ DevOps Engineer
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadeermohammed&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophy Wall
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nadeermohammed&theme=tokyonight&row=1&column=7"/>
 
 </div>
 
@@ -265,7 +275,39 @@ DevOps Engineer
 
 ---
 
+# ✍️ Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+🌱 Advanced Spring Boot
+
+🌱 REST API Development
+
+🌱 React.js
+
+🌱 Microservices
+
+🌱 Docker & Kubernetes
+
+🌱 AWS Cloud
+
+🌱 CI/CD Pipelines
+
+🌱 System Design
+
+---
+
 # 💡 Areas of Interest
+
+☕ Java Full Stack Development
 
 ☁️ Cloud Computing
 
@@ -275,26 +317,28 @@ DevOps Engineer
 
 🔐 Cybersecurity
 
-🔄 Automation & RPA
+🔄 RPA Automation
 
 📊 Machine Learning
-
-☕ Java Full Stack Development
 
 ---
 
 # ⚡ Fun Fact
 
 ```text
-I enjoy building intelligent systems that automate tasks,
-detect fraud, enhance security, and scale efficiently
-through cloud-native technologies.
+I enjoy building scalable full-stack applications,
+automating workflows, and exploring cloud-native technologies.
 ```
 
 ---
 
 <div align="center">
 
-## 🚀 "Automating Today, Securing Tomorrow, Building the Future."
+## 🚀 Building Scalable Applications • Learning Every Day • Growing Through Code
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
+
+```
+```
