@@ -15,7 +15,8 @@
 
 ---
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="380" src="https://raw.githubusercontent.com/nadeermohammed/nadeermohammed/main/assests/pht.jpeg">
+
 ## 🚀 About Me
 
 🎓 Final Year Computer Science Engineering Student
