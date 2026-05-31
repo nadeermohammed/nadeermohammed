@@ -1,11 +1,11 @@
-````md
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=MOHAMMED%20NADEER&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Java%20Full%20Stack%20Developer%20|%20Cloud%20%26%20DevOps%20Enthusiast%20|%20AI%20Developer&descAlignY=60"/>
 
 # 👋 Hi, I'm Mohammed Nadeer
 
-### ☕ Java Full Stack Developer | ☁️ Cloud & DevOps Enthusiast | 🤖 AI Developer | 🔄 RPA Automation Enthusiast
+### ☕ Java Full Stack Developer |  🤖 Agentic Ai Web Developer | 🔄 RPA Automation Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Cloud+%26+DevOps+Learner;AI+%26+Machine+Learning+Developer;RPA+Automation+Enthusiast;Building+Scalable+Applications"/>
 
@@ -23,11 +23,7 @@
 
 ☕ Passionate Java Full Stack Developer
 
-☁️ Cloud & DevOps Trainee at Dhee Coding Lab
-
 🔄 RPA Automation Intern at Varshita Infotech
-
-🤖 AI & Machine Learning Enthusiast
 
 🔐 Interested in Cybersecurity & Fraud Detection
 
